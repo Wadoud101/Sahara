@@ -1,4 +1,2 @@
 # Sahara
 # Sahara
-# Sahara
-# Sahara
